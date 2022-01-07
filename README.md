@@ -1,4 +1,4 @@
-# IBM Data Science Capstone Project
+# SpaceX Rocket Launch Case Study
 
 * SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upwards of 165 million dollars each, much of savings is due to the reusability of first stage. SpaceX’s Falcon 9 can recover the first stage. Sometimes it does not land or sometimes it crashes or in other times, SpaceX sacrifices the first stage due to the mission parameters like payload, orbit and customer. SpaceY is a new rocket company which would like to compete with SpaceX.
 
