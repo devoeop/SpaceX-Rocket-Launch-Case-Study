@@ -5,3 +5,8 @@
 * Our job is to find the correlation between the first stage landing success rate and launch parameters like payload mass, orbit type, booster types, where it is launched from and more. Therefore if we can determine if the first stage will land, we can determine the cost of launch for SpaceY. 
 
 * We used the SpaceX Rest API and web scraping to gather information available publicly and machine learning to predict if SpaceX will reuse the first stage. We also performed Exploratory Data Analysis and Data Visualization to gather insights from our data.
+
+## Project Outcomes
+- Studied SpaceX Falcon 9 rocket launches and determined if the first stage will land so that the cost of each launch can be estimated.
+- Used the SpaceX Rest API and web-scraping to gather information available publicly. 
+- Cleaned and analyzed the data to find the correlation between the first stage landing success rate and launch parameters and built a Machine Learning pipeline to predict if the first stage of Falcon 9 will land successfully with an accuracy of 83%.
